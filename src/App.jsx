@@ -10,7 +10,7 @@ import Contact from './components/Contach'
 import Footer from './components/Footer'
 
 function App() {
-  // const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0)
 
   return (
     <main className=' relative min-h-screen overflow-x-hidden w-screen'>
